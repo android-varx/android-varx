@@ -20,3 +20,14 @@
 
 ## 🔧 OS:
 ![](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,mint,nix&theme=dark)
+
+## 🚩 Projects:
+  | Name                | Link                                            | Description                                                                         |
+  |---------------------|-------------------------------------------------|-------------------------------------------------------------------------------------|
+  | KrateBox            | https://kratebox.com/                           | A privacy-focused, 100% local multitool featuring essential utilities.              |
+  | Eternal Forest      | https://github.com/android-varx/Eternal-Forest  | A 2D game developed from scratch using C# and the Godot Engine.                     |
+  | PassVault           | https://github.com/android-varx/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
+  | Ocr-Search          |                                                 |                                                                                     |
+
+  ## 🙂 Friend:
+  - [Evaninoo](https://github.com/Evaninoo)
