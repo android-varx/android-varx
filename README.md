@@ -7,5 +7,7 @@
 
 ## 💻 Discord Profile:
 <div align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/944309713393295360?  animated=true&animatedDecoration=true&hideSpotify=true&idleMessage=Working%20on%20EPITA%20projects...%20)](https://discord.com/users/944309713393295360)
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/944309713393295360?animated=true&animatedDecoration=true&hideSpotify=true&idleMessage=Working%20on%20EPITA%20projects...%20💻)](https://discord.com/users/944309713393295360)
+
 </div>
