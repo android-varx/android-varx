@@ -13,10 +13,10 @@
 </div>
 
 ## 🌍 Programming languages:
-![](https://skillicons.dev/icons?i=c,cs,py,ocaml,rust,html,css,sql&theme=dark)
+![](https://skillicons.dev/icons?i=py,ocaml,c,cs,rust,sql&theme=dark,html,css,)
 
 ## ⚙️ Programming Tools:
 ![](https://skillicons.dev/icons?i=bash,github,git,unity,godot,vim,vscode,rider,pycharm,latex,dotnet,arduino,raspberrypi&theme=dark)
 
 ## 🔧 OS:
-![](https://skillicons.dev/icons?i=windows,macos,linux,ubuntu,mint,nix&theme=dark)
+![](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,mint,nix&theme=dark)
