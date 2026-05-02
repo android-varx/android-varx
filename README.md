@@ -3,9 +3,7 @@
 - 🎓 Student at [EPITA](https://www.epita.fr/).
 - 📫 Contact : [Discord](https://discord.com/users/0x8086).
 - 🚀 Goal: Becoming a Cybersecurity Engineer.
-
-## 🙂 Friend:
-- [Evaninoo](https://github.com/Evaninoo)
+- 🤝 My Teammate: [Evaninoo](https://github.com/Evaninoo).
 
 ## 💻 Discord Profile:
 <div align="center">
