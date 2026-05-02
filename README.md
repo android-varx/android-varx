@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=230&section=header&text=android-varx&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=EPITA%20Student&descAlignY=65&descAlign=50&descColor=ffffff&descSize=20" />
+</div>
+
 ### Hi! I'm Andrei, a 20 year old student currently studying at EPITA. I am passionate about computer science and always looking for new challenges to tackle. Welcome to my profile !
 
 - 🎓 Student at [EPITA](https://www.epita.fr/).
