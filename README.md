@@ -16,7 +16,7 @@
 ![](https://skillicons.dev/icons?i=c,cs,py,ocaml,rust,html,css,sql&theme=dark)
 
 ## ⚙️ Programming Tools:
-![](https://skillicons.dev/icons?i=github,git,godot,unity,vscode,rider,pycharm,latex,dotnet,vim,bash,arduino,raspberrypi&theme=dark)
+![](https://skillicons.dev/icons?i=bash,github,git,unity,godot,vim,vscode,rider,pycharm,latex,dotnet,arduino,raspberrypi&theme=dark)
 
 ## 🔧 OS:
-![](https://skillicons.dev/icons?i=macos,windows,linux,mint,ubuntu,nix&theme=dark)
+![](https://skillicons.dev/icons?i=windows,macos,linux,ubuntu,mint,nix&theme=dark)
