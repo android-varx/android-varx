@@ -33,4 +33,6 @@
   | PassVault           | https://github.com/android-varx/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
   | Ocr-Search          |                                                 |                                                                                     |
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,9370DB&height=100&section=footer" />
+</div>
