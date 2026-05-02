@@ -4,6 +4,8 @@
 - 📫 Contact : [Discord](https://discord.com/users/0x8086).
 - 🚀 Goal: Becoming a Cybersecurity Engineer.
 
+## 🙂 Friend:
+- [Evaninoo](https://github.com/Evaninoo)
 
 ## 💻 Discord Profile:
 <div align="center">
@@ -29,5 +31,4 @@
   | PassVault           | https://github.com/android-varx/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
   | Ocr-Search          |                                                 |                                                                                     |
 
-  ## 🙂 Friend:
-  - [Evaninoo](https://github.com/Evaninoo)
+
