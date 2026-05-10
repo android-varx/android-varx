@@ -31,7 +31,11 @@
   | KrateBox            | https://kratebox.com/                           | A privacy-focused, 100% local multitool featuring essential utilities.              |
   | Eternal Forest      | https://github.com/android-varx/Eternal-Forest  | A 2D game developed from scratch using C# and the Godot Engine.                     |
   | PassVault           | https://github.com/android-varx/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
-  | Ocr-Search          | https://github.com/android-varx/Ocr-Search |Optical character recognition app in C to search for words in a grid.|
+  | Ocr-Search          | https://github.com/android-varx/Ocr-Search | Optical character recognition app in C to search for words in a grid.|
+  | Musical        | https://github.com/android-varx/Musical | Kotlin-based app to download and listen to music for free. |
+  | Matehmatix         | https://github.com/android-varx/Mathematix | Kotlin app for easy mental math practice.|
+  | Magic-Dashboard | https://github.com/android-varx/magic-dashboard | Rust crate for real-time local web visualization of variables.|
+  
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,9370DB&height=100&section=footer" />
